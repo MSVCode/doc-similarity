@@ -1,0 +1,26 @@
+{
+  "name": "doc-similarity",
+  "version": "0.0.1",
+  "description": "Simple document similarity based on JavaScript",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSVCode/doc-similarity.git"
+  },
+  "keywords": [
+    "document",
+    "similarity"
+  ],
+  "author": "MSVCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MSVCode/doc-similarity/issues"
+  },
+  "homepage": "https://github.com/MSVCode/doc-similarity#readme",
+  "dependencies": {
+    "stemmer": "^1.0.2"
+  }
+}
